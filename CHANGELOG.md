@@ -1,3 +1,10 @@
+## [1.26.4](https://github.com/aziontech/azion-web-kit/compare/v1.26.3...v1.26.4) (2024-05-22)
+
+
+### Bug Fixes
+
+* footer with 3 columns ([#84](https://github.com/aziontech/azion-web-kit/issues/84)) ([0499074](https://github.com/aziontech/azion-web-kit/commit/0499074168c105a0ed898854e091ac4d40a76a2b))
+
 ## [1.26.3](https://github.com/aziontech/azion-web-kit/compare/v1.26.2...v1.26.3) (2024-05-17)
 
 
